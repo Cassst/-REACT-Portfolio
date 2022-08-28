@@ -1,36 +1,29 @@
 import React from "react";
 
 import "./portfolio.css";
-import img1 from "../../assets/portfolio1.jpg";
+import CommingSoon from "../../assets/comming.webp";
 
 const data = [
   {
     id: 1,
-    image: img1,
-    title: "test1",
-    github: "test1",
+    image: CommingSoon,
+    title: "Rick & Morty - API",
+    github: "https://github.com/Cassst/-API-_Rick_and_Morty",
     demo: "test1",
   },
   {
     id: 2,
-    image: img1,
-    title: "test1",
-    github: "test1",
+    image: CommingSoon,
+    title: "Cibersecurity SPA",
+    github: "https://github.com/Cassst/-REACT--cibersecurity-spa",
     demo: "test1",
   },
   {
     id: 3,
-    image: img1,
-    title: "test1",
-    github: "test1",
-    demo: "test1",
-  },
-  {
-    id: 4,
-    image: img1,
-    title: "test1",
-    github: "test1",
-    demo: "test1",
+    image: CommingSoon,
+    title: "Futuros Proyectos - Visita mi GitHub",
+    github: "https://github.com/Cassst",
+    demo: "https://github.com/Cassst",
   },
 ];
 

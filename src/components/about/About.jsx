@@ -4,7 +4,7 @@ import { AiOutlineLinkedin } from 'react-icons/ai'
 import { SiVisualstudio } from 'react-icons/si'
 
 import './about.css'
-import me from '../../assets/me-about.jpg'
+import me from '../../assets/meByW.jpg'
 
 const About = () => {
   return (
@@ -39,9 +39,13 @@ const About = () => {
                 <small>11+ Aprendidas</small>
               </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam facere, praesentium vitae maxime eligendi animi, placeat distinctio et laudantium, esse aperiam libero quae voluptate cumque voluptatibus consequatur iure repellendus sit?</p>
+          <p>
+          Mi meta es convertirme en un profesional lo más completo posible, 
+          con habilidades y experiencias adquiridas a lo largo de proyectos y estudios.
+          Por lo cual estoy listo para superar los próximos desafios que vendrán 
+          </p>
 
-          <a href="#contact" className='btn btn-primary'>Lets talk</a>
+          <a href="#contact" className='btn btn-primary'>¿Nos ponemos en contacto?</a>
         </div>
       </div>
     </section>
